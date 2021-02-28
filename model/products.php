@@ -138,16 +138,5 @@ class Product
         $this->categoryID = $dataRow['categoryID'];
     }
 
-    //     public function appendProduct($id, $name, $price, $descr, $content, $cat){
 
-    //     $this->uniqid = $id;
-    //     $this->name = $name;
-    //     $this->price = $price;
-    //     $this->description = $descr;
-    //     $this->content = $content;
-    //     $this->categoryID = $cat;
-
-    //     return $this;
-
-    // }
 }
